@@ -37,10 +37,4 @@
       "last 1 safari version"
     ]
   }
-  {
-  "scripts": {
-    "start": "node index.js",
-    "build": "react-scripts build",
-    "dev": "react-scripts start"
-  }
 }
